@@ -1,17 +1,42 @@
-# neutralinojs-minimal
+# Realtime Share
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/how-to/use-a-frontend-library).
+This is an ionic android and desktop app used to instantly share  files and text between android and desktop. 
 
-## Contributors
+### Settings
 
-<a href="https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal" />
-</a>
+create a .env file at root directory and paste your firebase credentials
 
-## License
+    REACT_APP_APIKEY=""
+    REACT_APP_AUTHDOMAIN=""
+    REACT_APP_PROJECTID=""
+    REACT_APP_STORAGEBUCKET=""
+    REACT_APP_MESSAGESENDERID=""
+    REACT_APP_APPID=""
+    REACT_APP_MEASUREMENTID=""
+    GENERATE_SOURCEMAP=false
 
-[MIT](LICENSE)
+Now you need to build this react project for furthur  mobile and desktop
 
-## Icon credits
+   npm run build
 
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+### Mobile
+For mobile run
+
+    npx cap add android
+    npx cap open android
+
+Add your logos to resources folder and run
+
+    npm run android:logos
+
+### Desktop 
+for desktop you need to install neutralino.js compile to desktop
+
+    npm install -g @neutralinojs/neu
+    neu build
+
+
+
+
+
+

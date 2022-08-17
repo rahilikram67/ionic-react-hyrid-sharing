@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 /android
+/.github
+/.tmp
 # testing
 /coverage
 
