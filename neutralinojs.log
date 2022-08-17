@@ -1,0 +1,15 @@
+INFO 2022-08-17 16:49:40,064 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 16:49:42,963 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 16:53:11,531 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 16:53:13,199 Unable to open ./resources/favicon.ico api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 16:57:18,074 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 16:57:19,731 Unable to open ./resources/icons/trayIcon.png api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 16:57:19,763 Unable to open ./root/favicon.ico api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 17:14:01,619 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 17:14:03,582 Unable to open ./resources/icons/trayIcon.png api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 18:28:46,544 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 18:28:49,412 Unable to open ./resources/icons/trayIcon.png api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 18:31:19,009 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 18:31:21,037 Unable to open ./resources/icons/trayIcon.png api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
+INFO 2022-08-17 18:35:42,200 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:14 hp@DESKTOP-4CAT50L
+ERROR 2022-08-17 18:35:44,283 Unable to open ./resources/icons/trayIcon.png api\debug\debug.cpp:16 hp@DESKTOP-4CAT50L
